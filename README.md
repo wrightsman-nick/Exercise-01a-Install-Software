@@ -1,6 +1,8 @@
 # Exercise-01a-Install-Software
 Exercise for MSCH-C220, 20 January 2021
 
+A demonstration of this exercise is available here: [https://youtu.be/ilsMXzWXBfA](https://youtu.be/ilsMXzWXBfA)
+
 Your first task is to create an account on [GitHub.com](https://github.com/). Once you have created the account, log in and Fork the repository.
 
 Once the fork has completed, at the top of the repository page, you should now see [your user name]/Exercise-01a-Install-Software. This is the indication that it is safe for you to begin editing the repository.
